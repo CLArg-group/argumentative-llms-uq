@@ -1,5 +1,5 @@
 # Introduction
-Welcome! This repository contains the code for the submission "Evaluating Uncertainty Quantification Methods in Argumentative Large Language Models". We build upon the publicly available code from the paper "Argumentative Large Language Models for Explainable and Contestable Claim Verification". 
+Welcome! This repository contains the code for the submission "Evaluating Uncertainty Quantification Methods in Argumentative Large Language Models". We build upon the [publicly available code](https://github.com/CLArg-group/argumentative-llms/tree/main) from the paper "[Argumentative Large Language Models for Explainable and Contestable Claim Verification](https://arxiv.org/abs/2405.02079)". 
 
 ## Running the Experiments
 To run the experiments, please follow these steps:
